@@ -74,7 +74,7 @@ const App = () => {
         </div>
         <div className="row mt-5">
           <div className="col-lg-12">
-            <p><small><i>*Desafío 03 Unidad React - Array de colaboradores de guarda en Local Storage</i></small></p>
+            <p><small><i>*Desafío 03 Unidad React - Array de colaboradores se guarda en Local Storage</i></small></p>
           </div>
         </div>
       </div>
