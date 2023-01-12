@@ -1,11 +1,15 @@
 
-# Desafío 02 - Unidad React
+# Desafío 03 - Renderización de Componentes
 
 ## Revisa Netifly acá: 
 
-[Ver](https://transcendent-rugelach-b3fe68.netlify.app/)
+[Ver](https://d3-renderizacion-componentes.netlify.app/)
 
 ## Revisa el Repositorio acá: 
 
-[Ver](https://github.com/javierfdb/estado-componente-evento)
+[Ver](https://github.com/javierfdb/renderizacion-componentes)
+
+## Consulta por el Deploy: 
+
+[Ver](https://share.vidyard.com/watch/RajNyawAed36tpZNhtUadd)
 
