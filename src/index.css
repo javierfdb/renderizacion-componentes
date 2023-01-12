@@ -1,0 +1,94 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+form button[type=submit] {
+    margin-top: 1.5rem;
+}
+
+.container ul li {
+    position: relative;
+    min-height: 35px;
+}
+
+.container ul {
+    list-style: none;
+    padding-left: .2rem;
+}
+
+.container ul li:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f058";
+    display: inline-block;
+    padding-right: 10px;
+    vertical-align: middle;
+    font-weight: 900;
+    color: #099999;
+}
+
+.container ul li button {
+    font-size: 18px;
+    background: none;
+    border: 0px;
+    position: absolute;
+    right: 10%;
+}
+
+.container ul li button i {
+    transition: 0.70s;
+    -webkit-transition: 0.70s;
+    -moz-transition: 0.70s;
+    -ms-transition: 0.70s;
+    -o-transition: 0.70s;
+    font-weight: 700;
+   
+ 
+    
+    color: red;
+}
+
+.container ul li button i {
+    font-size: 22px;
+}
+
+.container ul li button i:hover {
+    transition: 0.70s;
+    -webkit-transition: 0.70s;
+    -moz-transition: 0.70s;
+    -ms-transition: 0.70s;
+    -o-transition: 0.70s;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.w-50-custom {
+    padding: 1rem .5rem;
+}
+
+.w-50-custom h4 {
+    margin-bottom: 0px;
+    font-size: 1.3rem;
+}
+
+.w-50-custom .col-lg-6 {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (min-width: 991px) {
+    .w-50-custom {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 556px) {
+    .container ul li button {
+        right: 0%;
+    }
+
+    .w-50-custom h4 {
+        text-align: center;
+        margin-bottom: 1rem;
+        width: 100%;
+    }
+}
